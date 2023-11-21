@@ -17,7 +17,7 @@
 <img src="./public/images/punto-3.png">
 
 <h2>Punto 4: Títulos</h2>
-<img scr="./public/images/punto-4.png">
+<img src="./public/images/punto-4.png">
 
 <h2>Punto 5: Párrafo</h2>
 
