@@ -1,0 +1,26 @@
+p {
+    text-align: center;
+}
+
+.linea {
+    text-decoration-line: overline underline;
+}
+
+strong {
+    font-size: 200%;
+}
+
+.verde {
+    color: rgb(2, 230, 2);
+}
+
+.rojo {
+    color: red;
+}
+
+.azul {
+    color: blue;
+}
+span {
+    color: red;
+}

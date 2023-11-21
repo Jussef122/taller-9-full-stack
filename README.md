@@ -20,6 +20,7 @@
 <img src="./public/images/punto-4.png">
 
 <h2>Punto 5: Párrafo</h2>
+<img src="./public/images/punto-5.png">
 
 <h2>Punto 6: Links</h2>
 
