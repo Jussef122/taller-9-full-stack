@@ -1,0 +1,25 @@
+
+table {
+            width: 100%;
+            border-collapse: collapse;
+            background-color: yellow;
+}
+
+th, td {
+    padding: 8px;
+    color: black;
+    border: 1px dotted black;
+}
+
+th {
+    color: red;
+    background-color: yellow;
+}
+
+        
+
+.mensaje {
+    background-color: yellow;
+    border-bottom:  1px dashed;
+    border-bottom-color: red;
+}
